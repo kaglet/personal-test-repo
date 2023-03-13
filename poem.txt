@@ -2,5 +2,7 @@ Red
 Yellow
 Green
 Red
+Random test 1
 Blue
 I love colors :).
+Making a random test 1
